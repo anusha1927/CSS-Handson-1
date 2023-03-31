@@ -1,0 +1,33 @@
+.red {
+	color: red;
+}
+.brown {
+	color: brown;
+}
+.container1 {
+	line-height: 40px;
+}
+.container2 {
+	letter-spacing: 7px;
+}
+.container3 {
+	color: goldenrod;
+}
+.italic {
+	font-style: italic;
+}
+.yellow {
+	background-color: yellow;
+}
+.bold {
+	font-weight: bold;
+}
+.strike {
+	text-decoration: line-through;
+}
+.underline {
+	text-decoration: underline;
+}
+.none {
+	text-decoration: none;
+}
